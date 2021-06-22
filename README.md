@@ -9,6 +9,7 @@
 |기능 개발|스택/큐|2|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Ddevelope_function.ipynb)|
 |프린터|스택/큐|2|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dprinter.ipynb)|
 |주식가격|스택/큐|2|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dstack_queue_stock_price.ipynb)|
+|다리를 지나는 트럭|스택/큐|2|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dtrucks_go_over_the_bridge.ipynb)|
 |모의고사|완전탐색|1|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dmock_exam.ipynb)|
 |더 맵게|힙|2|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dmore_spicy.ipynb)|
 |전화번호 목록|해시|2|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dphone_book.ipynb)|
