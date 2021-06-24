@@ -33,3 +33,6 @@
 ## 리트코드 [LeetCode](https://leetcode.com/)
 
 ## 서적
+|서적|문제|유형|풀이|
+|---|----|----|---|
+|이것이코딩테스트다|음료수얼려먹기|그리디|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BThisIsCT%5Dmake_icecream.ipynb)|
