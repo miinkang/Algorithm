@@ -16,6 +16,7 @@
 |H-Index|정렬|2|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5DH-Index.ipynb)|
 |가장 큰 수|정렬|2|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dthe_biggest_number.ipynb)|
 |두 개 뽑아서 더하기|정렬|1|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dsum_of_two_numbers.ipynb)|
+|타겟 넘버|BFS/DFS|2|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dtarget_number.ipynb)|
 
 
 ## 백준 [Baekjoon Online Judge](https://www.acmicpc.net/)
