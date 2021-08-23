@@ -16,7 +16,7 @@
 |더 맵게|힙|2|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dmore_spicy.ipynb)|
 |전화번호 목록|해시|2|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dphone_book.ipynb)|
 |위장|해시|2|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Ddisguise.ipynb)|
-|베스트앨범|해시|3|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Ddisguise.ipynb)|
+|베스트앨범|해시|3|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dbest_album.ipynb)|
 |H-Index|정렬|2|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5DH-Index.ipynb)|
 |가장 큰 수|정렬|2|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dthe_biggest_number.ipynb)|
 |두 개 뽑아서 더하기|정렬|1|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dsum_of_two_numbers.ipynb)|
