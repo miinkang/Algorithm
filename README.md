@@ -10,6 +10,7 @@
 |프린터|스택/큐|2|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dprinter.ipynb)|
 |주식가격|스택/큐|2|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dstack_queue_stock_price.ipynb)|
 |다리를 지나는 트럭|스택/큐|2|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dtrucks_go_over_the_bridge.ipynb)|
+|체육복|그리디|1|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dgym_clothes.ipynb)|
 |모의고사|완전탐색|1|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dmock_exam.ipynb)|
 |소수 찾기|완전탐색|2|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dfind_prime_number.ipynb)|
 |카펫|완전탐색|2|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dcarpet.ipynb)|
