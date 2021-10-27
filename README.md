@@ -35,6 +35,7 @@
 |[1966](https://www.acmicpc.net/problem/1966)|큐/구현/그리디|실버 III|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D1966_printer_queue.ipynb)|
 |[10845](https://www.acmicpc.net/problem/10845)|자료구조/큐|실버 IV|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D10845_queue.ipynb)|
 |[1991](https://www.acmicpc.net/problem/1991)|트리/재귀|실버 I|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D1991_tree_traversal.ipynb)|
+|[1991](https://www.acmicpc.net/problem/2884)|입출력/사칙연산|브론즈 III|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D2884_alarm_clock.ipynb)|
 |[2588](https://www.acmicpc.net/problem/2588)|입출력/사칙연산|브론즈 IV|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D2588_multiplication.ipynb)|
 
 
