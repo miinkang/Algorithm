@@ -24,7 +24,6 @@
 |두 개 뽑아서 더하기|정렬|1|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dsum_of_two_numbers.ipynb)|
 |타겟 넘버|BFS/DFS|2|[💡](https://github.com/miinkang/Algorithm/blob/main/%5Bprogrammers%5Dtarget_number.ipynb)|
 
-
 ## 백준 [Baekjoon Online Judge](https://www.acmicpc.net/)
 
 
@@ -39,6 +38,7 @@
 |[2588](https://www.acmicpc.net/problem/2588)|입출력/사칙연산|브론즈 IV|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D2588_multiplication.ipynb)|
 |[10809](https://www.acmicpc.net/problem/10809)|문자열/구현|브론즈 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D10809_find_alphabet.ipynb)|
 |[1260](https://www.acmicpc.net/problem/1260)|DFS/BFS|실버 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D1260_DFS_and_BFS.ipynb)|
+|[1697](https://www.acmicpc.net/problem/1697)|DFS/BFS|실버 I|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D1697_hide_n_seek.ipynb)|
 
 
 ## 리트코드 [LeetCode](https://leetcode.com/)
