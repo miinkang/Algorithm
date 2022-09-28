@@ -40,6 +40,7 @@
 |[1260](https://www.acmicpc.net/problem/1260)|DFS/BFS|실버 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D1260_DFS_and_BFS.ipynb)|
 |[1697](https://www.acmicpc.net/problem/1697)|DFS/BFS|실버 I|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D1697_hide_n_seek.ipynb)|
 |[1929](https://www.acmicpc.net/problem/1929)|수학|실버 III|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D1929_find_prime_number.ipynb)|
+|[10819](https://www.acmicpc.net/problem/10819)|브루트포스/백트래킹|실버 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D10819_maximize_the_difference.ipynb)|
 
 ## 리트코드 [LeetCode](https://leetcode.com/)
 
