@@ -42,6 +42,8 @@
 |[1929](https://www.acmicpc.net/problem/1929)|수학|실버 III|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D1929_find_prime_number.ipynb)|
 |[10819](https://www.acmicpc.net/problem/10819)|브루트포스/백트래킹|실버 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D10819_maximize_the_difference.ipynb)|
 |[14889](https://www.acmicpc.net/problem/14889)|브루트포스/백트래킹|실버 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D14889_start_and_link.ipynb)|
+|[15686](https://www.acmicpc.net/problem/15686)|브루트포스/백트래킹|골드 V|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D15686_delivery_fried_chicken.ipynb)|
+
 ## 리트코드 [LeetCode](https://leetcode.com/)
 
 ## 서적
