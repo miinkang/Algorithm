@@ -46,6 +46,9 @@
 |[10819](https://www.acmicpc.net/problem/10819)|브루트포스/백트래킹|실버 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D10819_maximize_the_difference.ipynb)|
 |[14889](https://www.acmicpc.net/problem/14889)|브루트포스/백트래킹|실버 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D14889_start_and_link.ipynb)|
 |[15686](https://www.acmicpc.net/problem/15686)|브루트포스/백트래킹|골드 V|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D15686_delivery_fried_chicken.ipynb)|
+|[11048](https://www.acmicpc.net/problem/11048)|다이나믹 프로그래밍|실버 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D11048_move.ipynb)|
+|[2293](https://www.acmicpc.net/problem/2293)|다이나믹 프로그래밍|골드 V|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D2293_coin1.ipynb)|
+|[2294](https://www.acmicpc.net/problem/2294)|다이나믹 프로그래밍|골드 V|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D2294_coin2.ipynb)|
 
 ## 리트코드 [LeetCode](https://leetcode.com/)
 
