@@ -45,10 +45,12 @@
 |[1929](https://www.acmicpc.net/problem/1929)|수학|실버 III|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D1929_find_prime_number.ipynb)|
 |[10819](https://www.acmicpc.net/problem/10819)|브루트포스/백트래킹|실버 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D10819_maximize_the_difference.ipynb)|
 |[14889](https://www.acmicpc.net/problem/14889)|브루트포스/백트래킹|실버 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D14889_start_and_link.ipynb)|
-|[15686](https://www.acmicpc.net/problem/15686)|브루트포스/백트래킹|골드 V|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D15686_delivery_fried_chicken.ipynb)|
 |[11048](https://www.acmicpc.net/problem/11048)|다이나믹 프로그래밍|실버 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D11048_move.ipynb)|
+|[11053](https://www.acmicpc.net/problem/11053)|다이나믹 프로그래밍|실버 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D11053_the_longest_increasing_subsequence.ipynb)|
 |[2293](https://www.acmicpc.net/problem/2293)|다이나믹 프로그래밍|골드 V|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D2293_coin1.ipynb)|
 |[2294](https://www.acmicpc.net/problem/2294)|다이나믹 프로그래밍|골드 V|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D2294_coin2.ipynb)|
+|[9251](https://www.acmicpc.net/problem/9251)|다이나믹 프로그래밍/문자열|골드 V|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D9251_LCS.ipynb)|
+|[12865](https://www.acmicpc.net/problem/12865)|다이나믹 프로그래밍/배낭 문제|골드 V|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D12865_an_ordinary_backpack.ipynb)|
 
 ## 리트코드 [LeetCode](https://leetcode.com/)
 
