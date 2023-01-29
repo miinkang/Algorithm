@@ -43,6 +43,7 @@
 |[2667](https://www.acmicpc.net/problem/2667)|DFS/백트래킹|실버 I|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D2667_number_town.ipynb)|
 |[1987](https://www.acmicpc.net/problem/1987)|DFS/백트래킹|골드 IV|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D1987_alphabet.ipynb)|
 |[1929](https://www.acmicpc.net/problem/1929)|수학|실버 III|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D1929_find_prime_number.ipynb)|
+|[블랙잭 10819](https://www.acmicpc.net/problem/2798)|브루트포스|브론즈 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D2798_blackjack.ipynb)|
 |[10819](https://www.acmicpc.net/problem/10819)|브루트포스/백트래킹|실버 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D10819_maximize_the_difference.ipynb)|
 |[14889](https://www.acmicpc.net/problem/14889)|브루트포스/백트래킹|실버 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D14889_start_and_link.ipynb)|
 |[11048](https://www.acmicpc.net/problem/11048)|다이나믹 프로그래밍|실버 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D11048_move.ipynb)|
