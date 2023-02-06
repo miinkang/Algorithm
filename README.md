@@ -46,6 +46,7 @@
 |[블랙잭 10819](https://www.acmicpc.net/problem/2798)|브루트포스|브론즈 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D2798_blackjack.ipynb)|
 |[차이를 최대로 10819](https://www.acmicpc.net/problem/10819)|브루트포스/백트래킹|실버 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D10819_maximize_the_difference.ipynb)|
 |[스타트와 링크 14889](https://www.acmicpc.net/problem/14889)|브루트포스/백트래킹|실버 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D14889_start_and_link.ipynb)|
+|[좋은수열 2661](https://www.acmicpc.net/problem/2661)|백트래킹|골드 IV|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D2661_good_sequence.ipynb)|
 |[이동하기 11048](https://www.acmicpc.net/problem/11048)|다이나믹 프로그래밍|실버 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D11048_move.ipynb)|
 |[가장 긴 증가하는 부분 수열 11053](https://www.acmicpc.net/problem/11053)|다이나믹 프로그래밍|실버 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D11053_the_longest_increasing_subsequence.ipynb)|
 |[동전 1 2293](https://www.acmicpc.net/problem/2293)|다이나믹 프로그래밍|골드 V|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D2293_coin1.ipynb)|
