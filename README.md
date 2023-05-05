@@ -39,6 +39,7 @@
 |[알파벳 찾기 10809](https://www.acmicpc.net/problem/10809)|문자열/구현|브론즈 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D10809_find_alphabet.ipynb)|
 |[DFS와 BFS 1260](https://www.acmicpc.net/problem/1260)|DFS/BFS|실버 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D1260_DFS_and_BFS.ipynb)|
 |[숨바꼭질 1697](https://www.acmicpc.net/problem/1697)|DFS/BFS|실버 I|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D1697_hide_n_seek.ipynb)|
+|[연산자 끼워넣기 14888](https://www.acmicpc.net/problem/14888)|DFS/백트래킹|실버 I|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D14888_insert_operator.ipynb)|
 |[안전 영역 2468](https://www.acmicpc.net/problem/2468)|DFS/백트래킹|실버 I|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D2468_safe_area.ipynb)|
 |[단지번호붙이기 2667](https://www.acmicpc.net/problem/2667)|DFS/백트래킹|실버 I|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D2667_number_town.ipynb)|
 |[알파벳 1987](https://www.acmicpc.net/problem/1987)|DFS/백트래킹|골드 IV|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D1987_alphabet.ipynb)|
