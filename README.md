@@ -43,7 +43,7 @@
 |[안전 영역 2468](https://www.acmicpc.net/problem/2468)|DFS/백트래킹|실버 I|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D2468_safe_area.ipynb)|
 |[단지번호붙이기 2667](https://www.acmicpc.net/problem/2667)|DFS/백트래킹|실버 I|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D2667_number_town.ipynb)|
 |[알파벳 1987](https://www.acmicpc.net/problem/1987)|DFS/백트래킹|골드 IV|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D1987_alphabet.ipynb)|
-|[사다리 조작 15684](https://www.acmicpc.net/problem/15684)|DFS/백트래킹|골드 III|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D15684_manipulate_ladder.ipynb))|
+|[사다리 조작 15684](https://www.acmicpc.net/problem/15684)|DFS/백트래킹|골드 III|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D15684_manipulate_ladder.ipynb)|
 |[소수 구하기 1929](https://www.acmicpc.net/problem/1929)|수학|실버 III|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D1929_find_prime_number.ipynb)|
 |[블랙잭 10819](https://www.acmicpc.net/problem/2798)|브루트포스|브론즈 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D2798_blackjack.ipynb)|
 |[차이를 최대로 10819](https://www.acmicpc.net/problem/10819)|브루트포스/백트래킹|실버 II|[💡](https://github.com/miinkang/Algorithm/blob/main/%5BBOJ%5D10819_maximize_the_difference.ipynb)|
